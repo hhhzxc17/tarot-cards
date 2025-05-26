@@ -53,7 +53,7 @@ const MainPage: FC = () => {
                 <span className="text-lg mb-6">{item.description}</span>
               </div>
             ))}
-          </>,
+          </>
         )}
     </div>
   );
